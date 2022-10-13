@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+    padding-left: 60px;
+}
+.video{
+
+}
+.title{
+    display:block;
+    width:100%;
+    font-size: 20px;
+    color:#030303;
+    font-weight: 500;
+    margin:10px 0 ;
+}
+.views{
+    display:block;
+    font-size: 14px;
+    color:#030303;
+    font-weight: 500;
+}
+.created{
+    display:block;
+    font-size: 14px;
+    color:#030303;
+    font-weight: 500;
+    margin-left: 6px;
+}
+.action{
+    width:100%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.action_item{
+    display: flex;
+    align-items: center;
+    padding:4px 8px 4px 0;
+    margin-right: 16px;
+    cursor: pointer;
+
+}
+.action_title{
+    margin-left: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    color:#030303
+}

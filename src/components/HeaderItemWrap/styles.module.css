@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+    align-items: center;
+    height:56px;
+    width:calc(100vw -240px);
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 1px 4px;
+}

@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin:16px 0;
+}
+.left{
+    margin-right: 20px;
+}
+.right{
+    width: 100%;
+
+}
+.name{
+    font-size: 13px;
+    color:#030303;
+    font-weight: 500;
+}
+.title{
+    font-size: 14px;
+    color:#030303;
+    font-weight: 400;
+    margin: 6px 0;
+}
+.action{
+    display: flex;
+    align-items: center;
+}
+.icon{
+
+}
+.number{
+    margin:0 16px;
+    font-size: 12px;
+}
+.icon{
+
+}
+.rep{
+    margin-left: 20px;
+    font-size: 12px;
+    color:#606060;
+    font-weight: 500;
+}

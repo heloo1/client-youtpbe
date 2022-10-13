@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.watchPage{
+    flex-direction: column;
+
+}
+.link{
+    display: block;
+    text-decoration: none;
+}
+
+
+.wrapVideo{
+    width:25%;
+}

@@ -1,0 +1,12 @@
+.container{
+    width:40%;
+    margin:  20px auto;
+}
+.header{
+    margin:20px;
+    text-align: center;
+    width:100%;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+}

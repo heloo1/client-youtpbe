@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0 20px;
+    height:40px;
+    text-decoration: none;
+}
+.container:hover{
+    background-color:rgb(250, 246, 246);
+    cursor: pointer;
+}
+.icon{
+    position: relative;
+    top:1px;
+    color:rgb(82, 82, 82);
+}
+.title{
+    margin-left: 20px;
+    font-weight: 400;
+    font-size:14px;
+    color:#030303;
+    text-decoration: none;
+
+
+}
+.container.active {
+    background-color:#e6e6e6;
+}
+.title.active {
+
+        font-weight: 500;
+}

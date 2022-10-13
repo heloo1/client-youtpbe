@@ -1,0 +1,12 @@
+.left{
+    margin-top:60px;
+}
+.wrap{
+
+   display: flex; 
+}
+.right{
+    margin-top:60px;
+    margin-left: 16px;
+
+}

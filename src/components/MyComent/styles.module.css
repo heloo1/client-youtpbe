@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+.left{
+    margin-right: 20px;
+}
+.right{
+    width: 100%;
+
+}
+.action{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.icon{
+    width:80%;
+    text-align: left;
+}

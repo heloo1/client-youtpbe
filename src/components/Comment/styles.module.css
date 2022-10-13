@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    border-top: 1px solid rgb(221, 221, 221);
+    margin-top: 30px;
+}
+.header{
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+
+}
+.number{
+    font-size: 16px;
+    color:#030303;
+    margin-right: 30px;
+}
+.sort{
+    font-size: 16px;
+    color:#030303;
+}
+.title{
+    position: relative;
+    top:-3px;
+
+    margin-left: 3px;
+}

@@ -1,0 +1,42 @@
+.container{
+    width:240px;
+    height:calc(100vh - 64px);
+    padding-right:4px;
+    margin-right:20px;
+    padding-top: 20px;
+    overflow: hidden;
+    scrollbar-gutter: stable both-edges;
+    position:fixed;
+    bottom:0;
+    left:0;
+}
+.container:hover{
+    overflow-Y: auto;
+
+}
+.link{
+    text-decoration: none;
+}
+.container::-webkit-scrollbar{
+    width:8px;
+    height:20px;
+}
+.container::-webkit-scrollbar-thumb{
+    background-color: #ccc;
+    height:8px;
+
+}
+.street{
+    width:100%;
+    background-color:rgb(232, 227, 227);
+    height:1px;
+    margin: 8px 0;
+}
+.name{
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left:20px;
+    color:#333;
+    margin: 10px 0;
+}
